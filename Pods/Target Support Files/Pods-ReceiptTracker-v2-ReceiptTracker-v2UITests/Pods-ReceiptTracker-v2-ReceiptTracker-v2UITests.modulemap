@@ -1,0 +1,6 @@
+framework module Pods_ReceiptTracker_v2_ReceiptTracker_v2UITests {
+  umbrella header "Pods-ReceiptTracker-v2-ReceiptTracker-v2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
